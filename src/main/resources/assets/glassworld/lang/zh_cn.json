@@ -1,0 +1,11 @@
+{
+  "item.glassworld.glass_sword": "玻璃剑",
+
+  "glassworld.configuration.title": "玻璃世界 配置",
+  "glassworld.configuration.section.glassworld.common.toml": "玻璃世界 配置",
+  "glassworld.configuration.section.glassworld.common.toml.title": "玻璃世界 配置",
+  "glassworld.configuration.items": "物品列表",
+  "glassworld.configuration.logDirtBlock": "记录泥土方块",
+  "glassworld.configuration.magicNumberIntroduction": "魔数介绍文本",
+  "glassworld.configuration.magicNumber": "魔数"
+}
