@@ -1,0 +1,11 @@
+{
+  "item.glassworld.glass_sword": "Glass Sword",
+
+  "glassworld.configuration.title": "Glass World Configs",
+  "glassworld.configuration.section.glassworld.common.toml": "Glass World Configs",
+  "glassworld.configuration.section.glassworld.common.toml.title": "Glass World Configs",
+  "glassworld.configuration.items": "Item List",
+  "glassworld.configuration.logDirtBlock": "Log Dirt Block",
+  "glassworld.configuration.magicNumberIntroduction": "Magic Number Text",
+  "glassworld.configuration.magicNumber": "Magic Number"
+}
